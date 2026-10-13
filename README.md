@@ -10,6 +10,7 @@ This is an **AI-powered resume ranking application** designed to help recruiters
 It leverages **Natural Language Processing (NLP)** and **semantic similarity models** to evaluate resumes against a given job description and generate an **automated ranking**.
 The tool is built to reduce **manual resume screening time**, ensure **fair and unbiased matching**, and improve overall **recruitment efficiency**.
 
+Access the application at https://ai-resume-ranker-sahil-kumbhar.streamlit.app
 ---
 
 ## Objective
@@ -82,6 +83,7 @@ pytest tests/ -v
 docker compose up -d
 ```
 Access the application at `http://localhost:8501`.
+
 
 ---
 
